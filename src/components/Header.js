@@ -56,7 +56,7 @@ const Header = (props) => {
                         <a>
                             <img src='/images/original-icon.svg' alt="original-icon" />
                             <span>ORIGINALS</span>
-                        </a>D:\Coding Languages   Frameworks\React projects\youtube-disney-clone\src\components\Header.js
+                        </a>
                         <a>
                             <img src='/images/movie-icon.svg' alt="movies-icon" />
                             <span>MOVIES</span>
